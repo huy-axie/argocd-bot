@@ -1,0 +1,6 @@
+.env
+*.swp
+gh_keys
+package-lock.json
+node_modules
+lib/

@@ -1,0 +1,9 @@
+.env
+.git
+node_modules
+Dockerfile
+docs
+gh_keys
+README
+LICENSE
+*.swp
